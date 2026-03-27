@@ -6,3 +6,7 @@
 #Thesecondelement {
     background-color: yellow;
 }
+
+#Thefirstelement, #Thesecondelement {
+    font-size: 28px; font-family: 'Times New Roman', Helvetica, sans-serif;
+}
